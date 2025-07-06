@@ -14,6 +14,10 @@ MENTOR - NEELA SANTHOSH KUMAR
 
 Description:
 
+Dataset:
+
+🔗 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 This notebook serves as a template or implementation guide for analyzing large-scale datasets using Python. It combines multiple steps in the data science pipeline, from data ingestion to visualization, modeling, and performance evaluation.
 
 📌 Typical Sections in Big Data Analysis Notebooks
