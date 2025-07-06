@@ -12,11 +12,10 @@ DURATION - 6 WEEKS(June 14th 2025 to July 29th 2025)
 
 MENTOR - NEELA SANTHOSH KUMAR
 
-Description:
-
 Dataset:
-
 🔗 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+Description:
 
 This notebook serves as a template or implementation guide for analyzing large-scale datasets using Python. It combines multiple steps in the data science pipeline, from data ingestion to visualization, modeling, and performance evaluation.
 
