@@ -14,6 +14,10 @@ MENTOR - NEELA SANTHOSH KUMAR
 
 Description:
 
+Dataset
+This project uses the IMDb Large Movie Review Dataset introduced by:
+Maas, A. L., Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y., & Potts, C. (2011). Learning Word Vectors for Sentiment Analysis. Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, 142–150. ACL Anthology
+
 This notebook serves as a template or implementation guide for analyzing large-scale datasets using Python. It combines multiple steps in the data science pipeline, from data ingestion to visualization, modeling, and performance evaluation.
 
 📌 Typical Sections in Big Data Analysis Notebooks
